@@ -1,6 +1,6 @@
 # Lenguas App #
 
-## View this project at [https://adonozo.bitbucket.io/]
+## View this project at [https://adonozo.bitbucket.io/](https://adonozo.bitbucket.io/)
 
 This project is largely the result of a joint effort by the [Iberoamerican Organization States](https://oei.int/oficinas/bolivia). Multiple teams contributed to this project including linguists, graphic designers, sound engineers, and developers. My contribution was the development of this Android application; but I also maintained the underlying service that makes this app work.
 
